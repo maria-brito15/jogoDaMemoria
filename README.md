@@ -1,5 +1,7 @@
 # 🎮 Jogo da Memória - Arduino + App Inventor
 
+[English Version Here](README_en.md)
+
 ## Anexos
 ### Tinkercad
 - [Imagem da Montagem](https://ibb.co/LzRXN25Q)
