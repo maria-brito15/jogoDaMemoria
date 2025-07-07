@@ -2,7 +2,6 @@
 
 ## Anexos
 ### Tinkercad
-- [Código Comentado do Arduino](https://ray.so/E9oF2Rk)
 - [Imagem da Montagem](https://ibb.co/LzRXN25Q)
 
 ### App Inventor
